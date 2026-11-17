@@ -8,13 +8,13 @@ This repository provides two independent MATLAB scripts:
 
 Both scripts can independently analyze the same input video.
 
-# Setup for Cardiac-Calcium-Imaging-Analysis 
+# Setup
 ### 1. Installation - MATLAB
 Install [MATLAB](https://www.mathworks.com/products/matlab.html) with the **Image Processing Toolbox** and **Signal Processing Toolbox**. The scripts were tested using MATLAB R2024b.
 ### 2. Preparation
 Download the MATLAB scripts and prepare a calcium imaging video in **.mp4** format. Open MATLAB and set the current folder to the directory containing the scripts. The frame rate is automatically detected, and analysis results are saved in the same directory as the input video.
 
-# Calcium Imaging Analysis Running Tutorial
+# Running Tutorial
 ### 1. 3D Calcium Heatmap Analysis
 Run Calcium_Heatmap_3D.m in MATLAB.
 1. Select an input video and specify the analysis time range.
