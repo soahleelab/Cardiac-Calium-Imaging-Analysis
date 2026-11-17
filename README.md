@@ -21,13 +21,16 @@ Run Calcium_Heatmap_3D.m in MATLAB.
 2. Draw a freehand ROI around the sample to generate a 3D tissue mask.
 3. Select a sample-free region for background correction.
 4. Set the heatmap color scale (or use automatic scaling) to generate the △F/F0 heatmap.
+
 **Output**
 Tissue mask image, △F/F0 heatmap video, calcium transient plots, and exel analysis results.
+
 ### 2. Multi-ROI Calcium Transient Analysis
 Run Calcium_MultiROI_Analysis.m in MATLAB.
 1. Select an input video and specify the analysis time range.
 2. Draw the first circular ROI, then select the centers of five additional ROIs with the same radius.
 3. Select a sample-free region for background correction.
 4. The script automatically generates △F/F0  traces and quantifies calcium transient parameters.
+
 **Output**
 ROI selection images, individual and overlaid △F/F0 traces, and excel files containing calcium cycling frequency, cycle duration, peak amplitude, and temporal parameters.
