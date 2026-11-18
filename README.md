@@ -21,11 +21,13 @@ Run Calcium_Heatmap_3D.m in MATLAB.
    
    <img width="400" alt="time range" src="https://github.com/user-attachments/assets/c5aed79f-5cb7-4903-a09d-4131180f52d3" />
 3. Draw a freehand ROI around the sample to generate a 3D tissue mask.
+   
    <img width="1097" height="385" alt="masking" src="https://github.com/user-attachments/assets/d02bb4b2-56a0-4646-b128-f4f146fb585e" />
 4. Select a sample-free region for background correction.
    
    <img width="400" alt="background selection" src="https://github.com/user-attachments/assets/ef140ac7-d302-4a60-bc51-f6ed2ebfc42a" />
 5. Set the heatmap color scale (or use automatic scaling) to generate the △F/F0 heatmap.
+   
    <img width="400" alt="color scale" src="https://github.com/user-attachments/assets/54a040b8-b108-4793-bd56-0beddc00811a" />
 
 **Output**
