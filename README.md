@@ -37,6 +37,7 @@ Run Calcium_Heatmap_3D.m in MATLAB.
 Run Calcium_MultiROI_Analysis.m in MATLAB.
 1. Select an input video and specify the analysis time range.
 2. Draw the first circular ROI, then select the centers of five additional ROIs with the same radius.
+   
    <img width="400" alt="ROI selection" src="https://github.com/user-attachments/assets/4d414988-9532-4111-bc75-611e85708a55" />
 3. Select a sample-free region for background correction.
 4. The script automatically generates △F/F0  traces and quantifies calcium transient parameters.
